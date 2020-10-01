@@ -5,12 +5,12 @@ Coronaviruses are a large family of viruses which may cause illness in animals o
 
 The number of new cases are increasing day by day around the world. This dataset has information from the states and union territories of India at daily level.
 
-State level data comes from Ministry of Health & Family Welfare
+State level data comes from The Ministry of Health & Family Welfare
 
 Individual level data comes from covid19india
 
 ### Description  
-This projects helps to depict the story of Covid-19 in India with help of some visulaizations and prdection are made using the previous data.
+This project helps to depict the story of Covid-19 in India with help of some visualizations and prediction are made using the previous data.
 
 The notebooks contains- 
 1.World Updates   
